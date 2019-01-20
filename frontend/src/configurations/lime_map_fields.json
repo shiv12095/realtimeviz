@@ -1,0 +1,15 @@
+[
+  {"name": "vehicle_id", "format": "", "tableFieldIndex": 1, "type": "string"},
+  {"name": "trip_start_datetime", "format": "YYYY-M-D H:m:s", "tableFieldIndex": 2, "type": "timestamp"},
+  {"name": "trip_end_datetime", "format": "YYYY-M-D H:m:s", "tableFieldIndex": 3, "type": "timestamp"},
+  {"name": "src_latitude", "format": "", "tableFieldIndex": 4, "type": "real"},
+  {"name": "src_longitude", "format": "", "tableFieldIndex": 5, "type": "real"},
+  {"name": "dest_latitude", "format": "", "tableFieldIndex": 6, "type": "real"},
+  {"name": "dest_longitude", "format": "", "tableFieldIndex": 7, "type": "real"},
+  {"name": "duration", "format": "", "tableFieldIndex": 8, "type": "integer"},
+  {"name": "vehicle_type", "format": "", "tableFieldIndex": 9, "type": "string"},
+  {"name": "hour_of_day", "format": "", "tableFieldIndex": 10, "type": "integer"},
+  {"name": "day_of_week", "format": "", "tableFieldIndex": 11, "type": "integer"},
+  {"name": "day_of_month", "format": "", "tableFieldIndex": 12, "type": "integer"},
+  {"name": "distance", "format": "", "tableFieldIndex": 13, "type": "real"}
+]

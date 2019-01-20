@@ -1,0 +1,8 @@
+{
+  "POSTGRES_HOST": "52.14.206.156",
+  "POSTGRES_DATABASE": "gis",
+  "POSTGRES_USER": "dvp",
+  "POSTGRES_PASS": "dvp",
+  "KAFKA_BOOTSTRAP_SERVERS": ["ec2-52-14-206-156.us-east-2.compute.amazonaws.com:9091","ec2-52-14-206-156.us-east-2.compute.amazonaws.com:9092","ec2-52-14-206-156.us-east-2.compute.amazonaws.com:9093"],
+  "BING_MAPS_API_KEY": "API_KEY"
+}

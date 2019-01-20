@@ -1,0 +1,17 @@
+certifi==2018.8.24
+chardet==3.0.4
+Django==2.1
+django-kronos==1.0
+gunicorn==19.9.0
+idna==2.7
+pbr==4.2.0
+python-crontab==2.3.4
+python-dateutil==2.7.3
+pytz==2018.5
+requests==2.19.1
+six==1.11.0
+stevedore==1.29.0
+urllib3==1.23
+virtualenv==16.0.0
+virtualenv-clone==0.3.0
+virtualenvwrapper==4.8.2
